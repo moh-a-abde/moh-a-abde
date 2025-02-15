@@ -1,4 +1,4 @@
-👋 Hello! I’m @moh-a-abde, a Full Stack Software Engineer focused on building robust, scalable applications. I also conduct research at the intersection of Machine Learning and Cybersecurity.
+- 👋 Hello! I’m @moh-a-abde, a Full Stack Software Engineer focused on building robust, scalable applications. I also conduct research at the intersection of Machine Learning and Cybersecurity.
 
 
 <!---
