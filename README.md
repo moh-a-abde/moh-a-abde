@@ -1,4 +1,21 @@
-- 👋 Hello! I’m @moh-a-abde, a Full Stack Software Engineer focused on building robust, scalable applications. I also conduct research at the intersection of Machine Learning and Cybersecurity.
+# Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+
+I’m **[@moh-a-abde](https://github.com/moh-a-abde)**, a **Full Stack Software Engineer** passionate about building robust, scalable applications.  
+I also conduct **research** at the intersection of **Machine Learning** and **Cybersecurity**.
+
+---
+
+### 🔬 Research Interests
+- Machine Learning  
+- Cybersecurity  
+
+### ⚙️ Current Focus
+- Designing end-to-end solutions for complex problems  
+- Exploring security vulnerabilities and AI-driven detection methods
+
+---
+
+Feel free to reach out or explore my repositories to see what I’ve been up to!
 
 
 <!---
