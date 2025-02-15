@@ -1,7 +1,6 @@
 # Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-I’m **[@moh-a-abde](https://github.com/moh-a-abde)**, a **Full Stack Software Engineer** passionate about building robust, scalable applications.  
-I also conduct **research** at the intersection of **Machine Learning** and **Cybersecurity**.
+I’m **[@moh-a-abde](https://github.com/moh-a-abde)**, a **Full Stack Software Engineer & Researcher** passionate about building robust, scalable applications.  
 
 ---
 
