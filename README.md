@@ -1,7 +1,7 @@
 
 ---
 
-![Banner](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2tkb3Q1YnV2cnUzbHNscGs3czdrZWU5Njhja3hzZndtdTRqMTUwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4FQMuOKR6zQRO/giphy.gif)
+![Banner](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnFkMXQ1ZmIzMmd4dGh1dnFtZDY2dTRpMWZtZ3piaDc0MjA0eDZybCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9j5LELD2fSz2aYGGCe/giphy.gif)
 
 ---
 
