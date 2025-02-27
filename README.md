@@ -1,7 +1,7 @@
 
 ---
 
-![Banner](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExem1xeGVjeXFkdXVycHZ5a2k1ZjAzdWtmOGR1bXB0NnlsYWwybGN1aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vtFD7SOw5XdzDR0PB0/giphy.gif)
+![Banner](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
 ---
 
