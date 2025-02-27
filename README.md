@@ -1,3 +1,4 @@
+Check out my **[portofolio and resume](https://moh-a-abde.github.io)**, 
 # Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 I’m **[@moh-a-abde](https://github.com/moh-a-abde)**, a **Full Stack Software Engineer & Researcher** passionate about building robust, scalable applications.  
