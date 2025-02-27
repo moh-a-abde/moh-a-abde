@@ -1,5 +1,6 @@
 
-<img src="https://media.giphy.com/media/3oKIPc9VZj4ylzjcys/giphy.gif" width="50px" height="50px"> Welcome to my GitHub Profile! <img src="https://media.giphy.com/media/3oKIPc9VZj4ylzjcys/giphy.gif" width="50px" height="50px">
+<img src="https://media.giphy.com/media/3oKIPc9VZj4ylzjcys/giphy.gif" width="50px" height="50px"> Welcome to my GitHub Profile! 
+<img src="https://media.giphy.com/media/3oKIPc9VZj4ylzjcys/giphy.gif" width="50px" height="50px">
 
 <div align="center">
 
