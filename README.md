@@ -1,6 +1,6 @@
 <div align="center">
 
-<div style="transform: scaleY(-10);">
+<div style="transform: scaleX(-1);">
   <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
 </div>
 
