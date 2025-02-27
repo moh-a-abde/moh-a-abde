@@ -17,11 +17,6 @@ I’m **[@moh-a-abde](https://github.com/moh-a-abde)**, a **Full Stack Software 
 Feel free to reach out or explore my repositories to see what I’ve been up to!
 
 ---
-
-## Fancy Animation
-
-Below is an animated SVG that dynamically changes gradient colors to welcome visitors:
-
 ```html
 <svg width="400" height="100" xmlns="http://www.w3.org/2000/svg">
   <defs>
@@ -38,7 +33,7 @@ Below is an animated SVG that dynamically changes gradient colors to welcome vis
     Welcome to my Profile!
   </text>
 </svg>
-
+```
 ---
 
 <!---
