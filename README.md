@@ -8,6 +8,8 @@
   <img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-blue?style=for-the-badge&logo=github" alt="Portfolio & Resume" />
 </a>
 
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=moh-a-abde)
+
 ---
 
 <div>
