@@ -3,7 +3,7 @@
 # ✨ Welcome to my GitHub Profile! ✨
 
 <a href="https://moh-a-abde.github.io" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-blue?style=for-the-badge&logo=python" alt="Portfolio & Resume" />
+  <img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-blue?style=for-the-badge&logo=github" alt="Portfolio & Resume" />
 </a>
 
 ## Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
