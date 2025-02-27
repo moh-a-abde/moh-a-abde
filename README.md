@@ -1,15 +1,14 @@
 <div align="center">
 
-<!-- Top Wave - blue -->
-<img src="https://capsule-render.vercel.app/api?type=wave&color=4169E1&height=180&section=header" width="100%">
+<!-- Header Wave - using a different approach for the flipped version -->
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0099ff&height=120&section=header" width="100%">
 
-<!-- Center the text with equal spacing -->
-<div style="margin: 120px 0;">
+<div style="margin: 40px 0;">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=3000&pause=1000&color=F7008F&center=true&vCenter=true&random=false&width=700&lines=Full+Stack+Engineer;Machine+Learning+Researcher;Cybersecurity+Enthusiast;Passionate+Coder" alt="Typing SVG" /></a>
 </div>
 
-<!-- Bottom Wave - purple -->
-<img src="https://capsule-render.vercel.app/api?type=wave&color=9370DB&height=180&section=footer" width="100%">
+<!-- Footer Wave -->
+<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
 
 <a href="https://moh-a-abde.github.io" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-blue?style=for-the-badge&logo=github" alt="Portfolio & Resume" />
