@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-blue?style=for-the-badge&logo=github" alt="Portfolio & Resume" />
 </a>
 
-<div style="margin: 40px 0;">
+<div style="margin: 5px 0;">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=3000&pause=1000&color=F7008F&center=true&vCenter=true&random=false&width=700&lines=Full+Stack+Engineer;Machine+Learning+Researcher;Cybersecurity+Enthusiast;Passionate+Coder" alt="Typing SVG" /></a>
 </div>
 
