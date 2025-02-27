@@ -60,7 +60,7 @@ I'm **[@moh-a-abde](https://github.com/moh-a-abde)**, a **Full Stack Software En
 
   <div align="center">
   <!-- Featured Repository Banner -->
-  <img src="https://github.com/moh-a-abde/moh-a-abde/blob/main/featured_repo.png" alt="Featured Repository Banner" width="100%">
+  <img src="https://github.com/moh-a-abde/moh-a-abde/blob/main/featured_repo.png" alt="Featured Repository Banner" width="20%">
   </div>
   
   <!-- Featured Repo Card -->
