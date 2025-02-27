@@ -55,7 +55,10 @@ I'm **[@moh-a-abde](https://github.com/moh-a-abde)**, a **Full Stack Software En
   <img src="https://img.shields.io/badge/Portfolio-Visit_Now-brightgreen?style=for-the-badge&logo=github" alt="Portfolio" />
 </a>
 &nbsp;
+<!---
 <a href="https://moh-a-abde.github.io/resume" target="_blank">
+--->
+<a href="https://drive.google.com/file/d/1ZcTSZnA6dRBQ7ynsO2lpi0RWuyK1xvQD/view?usp=share_link" target="_blank">
   <img src="https://img.shields.io/badge/Resume-View_PDF-red?style=for-the-badge&logo=adobe-acrobat-reader" alt="Resume" />
 </a>
 
