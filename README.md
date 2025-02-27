@@ -1,9 +1,3 @@
-
----
-
-![Banner](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
-
-
 # Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 I’m **[@moh-a-abde](https://github.com/moh-a-abde)**, a **Full Stack Software Engineer & Researcher** passionate about building robust, scalable applications.  
@@ -20,6 +14,8 @@ I’m **[@moh-a-abde](https://github.com/moh-a-abde)**, a **Full Stack Software 
 
 ---
 Feel free to reach out or explore my repositories to see what I’ve been up to!
+---
+![Banner](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 ---
 
 <!---
