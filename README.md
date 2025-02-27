@@ -1,5 +1,4 @@
-
-<div>
+<div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=36&duration=3000&pause=1000&color=007BFF&center=true&vCenter=true&random=false&width=700&lines=Full+Stack+Engineer;Machine+Learning+Researcher;Cybersecurity+Enthusiast;Passionate+Coder" alt="Typing SVG" />
   </a>
@@ -42,6 +41,28 @@ I'm **[@moh-a-abde](https://github.com/moh-a-abde)**, a **Full Stack Software En
 ---
 
 <div align="center">
+
+<div style="transform: scaleY(-1); margin: 20px 0;">
+  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
+</div>
+
+<a href="https://moh-a-abde.github.io" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-blue?style=for-the-badge&logo=github" alt="Portfolio & Resume" />
+</a>
+
+<div align="center">
+
+  <!-- GitHub Stats Card -->
+  ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=moh-a-abde&show_icons=true&theme=dark&show_icons=true)
+
+  <!-- Top Languages Card -->
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moh-a-abde&layout=compact&theme=dark&show_icons=true)
+
+  <!-- Featured Repo Card -->
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moh-a-abde&repo=FL-CML-Pipeline&show_owner=true)](https://github.com/moh-a-abde/FL-CML-Pipeline)
+
+
+</div>
 
 ### Feel free to reach out or explore my repositories!
 
