@@ -1,8 +1,6 @@
 
 ---
 
-Feel free to reach out or explore my repositories to see what I’ve been up to!
-
 ![Banner](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2tkb3Q1YnV2cnUzbHNscGs3czdrZWU5Njhja3hzZndtdTRqMTUwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4FQMuOKR6zQRO/giphy.gif)
 
 ---
@@ -21,6 +19,8 @@ I’m **[@moh-a-abde](https://github.com/moh-a-abde)**, a **Full Stack Software 
 - Designing end-to-end solutions for complex problems  
 - Exploring security vulnerabilities and AI-driven detection methods
 
+---
+Feel free to reach out or explore my repositories to see what I’ve been up to!
 ---
 
 <!---
