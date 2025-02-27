@@ -16,8 +16,7 @@ I’m **[@moh-a-abde](https://github.com/moh-a-abde)**, a **Full Stack Software 
 
 Feel free to reach out or explore my repositories to see what I’ve been up to!
 
----
-![Fancy Animated Banner](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+![Banner](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmJibGRlM2p2eDE3bGZsM3hkdnhuZnhiNXN5YnNmcmw2NnA0dThtdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5dYeglPmPC5lL7xYhs/giphy.gif)
 ---
 
 <!---
