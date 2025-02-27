@@ -9,6 +9,8 @@
 </a>
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=moh-a-abde)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moh-a-abde)
+
 
 ---
 
