@@ -58,10 +58,10 @@ I'm **[@moh-a-abde](https://github.com/moh-a-abde)**, a **Full Stack Software En
   </div>
 
   <!-- GitHub Stats Card -->
-  ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=moh-a-abde&show_icons=true&theme=dark&show_icons=true)
+  ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=moh-a-abde&show_icons=true&show_icons=true)
 
   <!-- Top Languages Card -->
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moh-a-abde&layout=compact&theme=dark&show_icons=true)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moh-a-abde&layout=compact&show_icons=true)
 
   <div align="center">
   <!-- Featured Repository Banner -->
