@@ -11,10 +11,10 @@
 <div align="center">
 
   <!-- GitHub Stats Card -->
-  ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=moh-a-abde&show_icons=true&theme=radical)
+  ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=moh-a-abde&show_icons=true&theme=radical&show_icons=true)
 
   <!-- Top Languages Card -->
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moh-a-abde&layout=compact&theme=radical)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moh-a-abde&layout=compact&theme=radical&show_icons=true)
 
 </div>
 
