@@ -59,7 +59,7 @@ I'm **[@moh-a-abde](https://github.com/moh-a-abde)**, a **Full Stack Software En
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moh-a-abde&layout=compact&theme=dark&show_icons=true)
 
   <!-- Featured Repo Card -->
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moh-a-abde&repo=FL-CML-Pipeline&show_owner=true)](https://github.com/moh-a-abde/FL-CML-Pipeline)
+  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=moh-a-abde&repo=FL-CML-Pipeline&show_owner=true)](https://github.com/moh-a-abde/FL-CML-Pipeline)
 
 
 </div>
