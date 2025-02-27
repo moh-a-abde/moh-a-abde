@@ -8,9 +8,15 @@
   <img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-blue?style=for-the-badge&logo=github" alt="Portfolio & Resume" />
 </a>
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=moh-a-abde)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moh-a-abde)
+<div align="center">
 
+  <!-- GitHub Stats Card -->
+  ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=moh-a-abde&show_icons=true&theme=radical)
+
+  <!-- Top Languages Card -->
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moh-a-abde&layout=compact&theme=radical)
+
+</div>
 
 ---
 
