@@ -33,8 +33,8 @@ I'm **[@moh-a-abde](https://github.com/moh-a-abde)**, a **Full Stack Software En
   
 ### ⚙️ Current Focus
   
- 🛠️ Designing end-to-end solutions for complex problems  
- 🔐 Exploring security vulnerabilities and AI-driven detection methods
+ Designing end-to-end solutions for complex problems  
+ Exploring security vulnerabilities and AI-driven detection methods
 
 </div>
 
