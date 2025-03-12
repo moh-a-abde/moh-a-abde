@@ -63,17 +63,6 @@ I'm **[@moh-a-abde](https://github.com/moh-a-abde)**, a **Full Stack Software En
   <!-- Top Languages Card -->
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moh-a-abde&layout=compact&show_icons=true)
 
-  <div align="center">
-  <!-- Featured Repository Banner -->
-  <img src="https://github.com/moh-a-abde/moh-a-abde/blob/main/featured_repo.png" alt="Featured Repository Banner" width="20%">
-  </div>
-  
-  <!-- Featured Repo Card -->
-  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=moh-a-abde&repo=FL-CML-Pipeline&show_owner=true)](https://github.com/moh-a-abde/FL-CML-Pipeline)
-
-
-</div>
-
 ### Feel free to reach out or explore my repositories!
 
 <kbd>
