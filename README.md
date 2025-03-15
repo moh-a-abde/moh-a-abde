@@ -40,8 +40,6 @@ I'm **[@moh-a-abde](https://github.com/moh-a-abde)**, a **Full Stack Software En
 
 ---
 
-<div align="center">
-
 <div style="transform: scaleY(-1); margin: 20px 0;">
   <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
 </div>
